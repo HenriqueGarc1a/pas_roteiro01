@@ -1,4 +1,4 @@
-package parte_2;
+
 
 import java.util.Scanner;
 public class App {

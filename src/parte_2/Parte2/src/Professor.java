@@ -1,4 +1,4 @@
-package parte_2;
+
 
 public class Professor {
     private String nome;
